@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UserInterface\InterfaceNum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInterface\InterfaceUni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInterface\ResultScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Variables\ConfirmDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rules\ConditionWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rules\CreateRule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rules\Modificar Regra\EditCondition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rules\Modificar Regra\EditOldRule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rules\modRule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rules\ObjectiveWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Variables\EditVariable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Variables\VariavelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
